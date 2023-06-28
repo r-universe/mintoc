@@ -1,10 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "lhmixr"]
 	path = lhmixr
 	url = https://github.com/mintoc/lhmixr
-	shallow = true
-	registered = true
